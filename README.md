@@ -3,6 +3,9 @@
 ## Concepts
 
 ### Resources
+https://www.youtube.com/watch?v=Hbt56gFj998
+https://redis-py.readthedocs.io/en/stable/
+https://realpython.com/python-redis/
 https://devhints.io/mysql
 https://www.liquidweb.com/kb/mysql-optimization-how-to-leverage-mysql-database-indexing/
 https://www.w3resource.com/mysql/mysql-procedure.php
